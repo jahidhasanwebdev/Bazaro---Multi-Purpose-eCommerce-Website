@@ -1,4 +1,4 @@
-Bazaro - Multi-Purpose eCommerce Website Template
+Bazaro - Multi-Purpose eCommerce Website
 
 Bazaro is a modern, stylish, and fully responsive multi-purpose eCommerce HTML template crafted for online businesses across diverse retail industries. Designed with a focus on modern user interface principles and conversion-oriented layouts, it provides a flexible foundation for launching online stores for fashion, electronics, groceries, furniture, cosmetics, medical supplies, and more.
 
